@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Drupal guy who loves loves my family, the outdoors, and learning new tricks.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check back
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joshuabneedham@gmail.com](mailto:joshuabneedham@gmail.com)
