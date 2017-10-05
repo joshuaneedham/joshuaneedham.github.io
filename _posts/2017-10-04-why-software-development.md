@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Why I decided to learn software development
 ---
-## Why I decided to learn software development
-
 A little over a decade ago I stumbled upon internet marketing which led to the need for a website and ultimately to learning HTML and CSS. As I started down the road I found [Drupal](https://drupal.org) and from there it has been a fun ride over the last 9 years.
 
 I've run a couple of companies that offered website and mobile application development and I found myself building and theming websites but whenever custom work needed to be done I would always find a contractor. Deep down I wished I could code things myself but time constraints and availability of contractors always ended up winning over learning. 
