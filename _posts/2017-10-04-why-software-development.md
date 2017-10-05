@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+published: true
+title: Why I decided to learn software development
 ---
 ## Why I decided to learn software development
 
