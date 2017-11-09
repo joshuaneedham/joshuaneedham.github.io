@@ -5,7 +5,8 @@ published: true
 
 
 
-##String Escape Sequences
+## String Escape Sequences
+
 | Escape | What it does |
 | -- | -- |
 | \\ | Backslash () |
