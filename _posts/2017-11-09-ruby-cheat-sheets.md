@@ -3,6 +3,7 @@ published: true
 ---
 ## Ruby Cheat Sheets
 
+I will continually be adding to this blog post which will provide myself and hopefully others a quick reference to various cheats or quick references to all things Ruby. If you have a link to a resource that needs to be here please feel free to message me a link. 
 
 
 ## String Escape Sequences
