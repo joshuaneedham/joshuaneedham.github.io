@@ -60,10 +60,10 @@ I will continually be adding to this blog post which will provide myself and hop
 
 | NOT OR | true? |
 | -- | -- |
-| not (true \|\| false | false|
-| not (true \|\| true | false|
-| not (false \|\| true | false|
-| not (false \|\| false | false|
+| not (true \|\| false) | false |
+| not (true \|\| true) | false |
+| not (false \|\| true) | false |
+| not (false \|\| false) | true |
 
 | NOT AND | true? |
 | -- | -- |
