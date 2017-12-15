@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My CLI Gem Project
 
