@@ -22,3 +22,19 @@ I will continually be adding to this blog post which will provide myself and hop
 |\v | ASCII vertical tab (VT) |
 |\ooo |	Character with octal value ooo |
 |\xhh |	Character with hex value hh |
+
+## Truth Tables
+
+| Characters | Phrase |
+| -- | -- |
+| && | (and) |
+| || | (or) |
+| ! | (not) |
+| != | (not equal) |
+| == | (equal) |
+| >= | (greater-than-equal) |
+| <= | (less-than-equal) |
+| true |
+| false |
+
+
