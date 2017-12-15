@@ -28,13 +28,13 @@ I will continually be adding to this blog post which will provide myself and hop
 | Characters | Phrase |
 | -- | -- |
 | && | (and) |
-| || | (or) |
+| \\|\\| | (or) |
 | ! | (not) |
 | != | (not equal) |
 | == | (equal) |
 | >= | (greater-than-equal) |
 | <= | (less-than-equal) |
-| true |
-| false |
+| true | |
+| false | |
 
 
