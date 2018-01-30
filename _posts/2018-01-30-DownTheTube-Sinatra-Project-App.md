@@ -9,8 +9,7 @@ Right after I finished my CLI gem project I began thinking about a project idea 
 With that being said I am setting out to build an app that will allow any firearms owner to track the number of rounds shot from each of their firearms. For competitive shooters, it is very important to know how many rounds have been shot through each barrel used. For others, it's just a nice piece of information that can be utilized for proper firearm maintenance and what not.
 
 Enter ## DownTheTu.be
-![down-the-barrel.jpg]({{site.baseurl}}/_posts/down-the-barrel.jpg)
-
+![down-the-barrel.jpg]({{site.baseurl}}/images/down-the-barrel.jpg)
 
 The basics of the application include:
 
