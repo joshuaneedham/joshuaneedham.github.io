@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: blog
 ---
 ## Rails Down The Tube Project
 
