@@ -1,6 +1,6 @@
 ---
 published: true
-layout: blog
+layout: post
 ---
 ## Rails Down The Tube Project
 
