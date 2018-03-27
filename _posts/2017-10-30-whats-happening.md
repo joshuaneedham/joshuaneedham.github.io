@@ -2,7 +2,6 @@
 published: true
 ---
 ## What's happening in Flatiron land
-
 It's been quite the month of learning via Flatiron School on learn.co. I am keeing in line with my goal of completion within 4 months with an added sub-goal if you will of completion by the end of 2017. As of today I'm working through the Object Oriented Ruby portion of the cirriculum and it's coiming along great!
 
 Topics covered include Intro to Ruby, Procedural Ruby, GIT, and HTML/CSS. It's been great finally taking the dive into becoming a developer in a coding sense. Having been a web developer for a decade utilizing basic technologies such as HTML, CSS, jQuery(very basic), and Drupal to help manage data and users it is really cool to begin the journey into more technical approaches of achieving various results with code. 
