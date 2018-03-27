@@ -3,7 +3,6 @@ published: true
 layout: post
 ---
 ## My CLI Gem Project
-
 cli.rb controls the workflow of the gem providing various command line interaction methods.
 
 The available options from within the CLI are:
