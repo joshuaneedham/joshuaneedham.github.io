@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: post
 ---
 ### Want to use Rails 5, Devise, Omniauth, Omniauth-Facebook, and Bootstrap?
 I decided to wrap a base app into a repo here on GitHub that out of the box is ready to add your Facebook App API credentials, and hit the ground running. There are some caveats with regards to the Facebook side of setup but nothing overly difficult.
