@@ -2,7 +2,6 @@
 published: true
 layout: post
 ---
-## Rails Down The Tube Project
 
 I decided to continue on with my Sinatra app as previously mentioned and build out a rails app using the idea as a starting point for my Rails portfolio application. Flatiron has been great and I'm looing forward to moving along on my journey to Full Stack Developer.
 
