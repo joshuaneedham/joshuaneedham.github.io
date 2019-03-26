@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My Rails w/JS Project
 
