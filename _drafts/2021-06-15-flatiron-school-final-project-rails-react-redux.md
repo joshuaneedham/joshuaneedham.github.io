@@ -31,5 +31,3 @@ The redux portion was the hardest part to wrap my head around and I'm still not 
 I'm looking forward to continued learning of the latest and greatest that React has to offer but I'm really interested getting to know VueJs and other backend options like Firebase, and NodeJS.
 
 Here's to continually learning and growing with code. Cheers!
-
-
