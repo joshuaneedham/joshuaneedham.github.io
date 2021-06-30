@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# React Lifecycle, State, and Props
-
 ## Lifecycle
 
 There are 3 phases in a React component lifecycle - mounting, updating, and unmounting. In each phase there are specific lifecycle methods available which are a series of events that happen throughout the mounting, updating, and unmounting of a React component.
@@ -93,3 +91,15 @@ class Test extends React.Component {
 State should not be modified directly, but it can be modified with a special method called `setState()`.
 
 A change in state occurs with user-input, triggering an event, etc. React components with state are rendered based on the data in state. State holds the initial information.
+
+When state changes React is informed immediately rerendering the DOM, not the whole DOM, but only the component that is being updated. This is done with the `setState()` method previously mentioned.
+
+Two key points regarding state:
+- State shouldn't be modified directly - the `setState()` should be used.
+- State affects the performance of the application and shouldn't be used unnecessarily.
+
+### Main differences between props and state
+
+- Components receive data from outside with props and can create and manage their own data with state.
+- Props are used to pass data, state is for managing data
+- Data from props is read-only and cannot be modified by a component that is receiving it from a parent component.
